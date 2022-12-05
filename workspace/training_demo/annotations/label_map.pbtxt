@@ -1,9 +1,14 @@
 item {
     id: 1
-    name: 'JagabeeFarmer'
+    name: 'Jagabee'
 }
 
 item {
     id: 2
     name: 'Dettol'
+}
+
+item {
+    id: 3
+    name: 'Coke'
 }

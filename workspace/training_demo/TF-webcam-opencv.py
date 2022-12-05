@@ -86,7 +86,7 @@ def load_image_into_numpy_array(path):
 print('Running inference for Webcam', end='')
 
 # Initialize Webcam
-videostream = cv2.VideoCapture(1)
+videostream = cv2.VideoCapture(0)
 ret = videostream.set(3,1280)
 ret = videostream.set(4,720)
 

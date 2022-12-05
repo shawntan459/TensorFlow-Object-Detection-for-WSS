@@ -1,0 +1,1 @@
+cd C:\TensorFlow\workspace\training_demo
